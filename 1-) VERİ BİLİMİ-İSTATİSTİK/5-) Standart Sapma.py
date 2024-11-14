@@ -1,3 +1,8 @@
+""" STANDART SAPMA NEDİR?
+Standart sapma, bir veri setindeki değerlerin ortalamadan ne kadar sapma gösterdiğini, yani yayılımını ölçen bir istatistiksel ölçüdür. 
+Standart sapma, varyansın kareköküdür ve daha çok kullanılan bir yayılma ölçüsüdür çünkü verilerle aynı birime sahiptir. 
+Standart sapma küçükse, veriler ortalamaya yakın; büyükse, veriler ortalamadan uzak dağılmış demektir.
+"""
 from statistics import stdev
 
 # Bir veri seti tanımlayalım
