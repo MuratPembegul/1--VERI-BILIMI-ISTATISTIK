@@ -1,3 +1,8 @@
+""" MOD NEDİR?
+Mod, bir veri setindeki en sık tekrarlanan değerdir. İstatistikte, veri setinin en yaygın değerini bulmak için kullanılır. 
+Mod, veri setindeki en yüksek frekansa sahip değeri temsil eder. Eğer veri setinde her değer bir kez tekrarlanıyorsa, mod yoktur. 
+Mod, özellikle nominal (kategorik) verilerde en sık görülen kategoriyi belirlemek için kullanışlıdır.
+"""
 from statistics import mode
 
 # Bir veri seti tanımlayalım
