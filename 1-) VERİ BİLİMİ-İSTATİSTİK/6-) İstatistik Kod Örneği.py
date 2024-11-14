@@ -1,3 +1,4 @@
+# Numpy ve scipy kütüphanelerini yüklüyoruz
 import numpy as np
 from scipy import stats
 
