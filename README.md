@@ -8,5 +8,7 @@ Medyan, bir veri setindeki ortanca değeri ifade eder. Bir veri setindeki sayıl
 Mod, bir veri setindeki en sık tekrarlanan değerdir. İstatistikte, veri setinin en yaygın değerini bulmak için kullanılır. Mod, veri setindeki en yüksek frekansa sahip değeri temsil eder. Eğer veri setinde her değer bir kez tekrarlanıyorsa, mod yoktur. Mod, özellikle nominal (kategorik) verilerde en sık görülen kategoriyi belirlemek için kullanışlıdır.
 # VARYANS NEDİR?
 Varyans, bir veri setindeki değerlerin ortalamadan ne kadar sapma gösterdiğini ölçer. Varyans, veri setinin yayılımını anlamak için kullanılır. Matematiksel olarak, her bir değerin ortalamadan farkının karesi alınarak bu farkların ortalaması hesaplanır. Varyans ne kadar büyükse, veriler ortalamadan o kadar uzaklaşmıştır.
+# STANDART SAPMA NEDİR?
+Standart sapma, bir veri setindeki değerlerin ortalamadan ne kadar sapma gösterdiğini, yani yayılımını ölçen bir istatistiksel ölçüdür. Standart sapma, varyansın kareköküdür ve daha çok kullanılan bir yayılma ölçüsüdür çünkü verilerle aynı birime sahiptir. Standart sapma küçükse, veriler ortalamaya yakın; büyükse, veriler ortalamadan uzak dağılmış demektir.
 
 
