@@ -1,4 +1,5 @@
-"""Medyan, bir veri setindeki ortanca değeri ifade eder. 
+""" MEDYAN NEDİR?
+Medyan, bir veri setindeki ortanca değeri ifade eder. 
 Bir veri setindeki sayılar küçükten büyüğe sıralandıktan sonra, ortadaki sayı medyan olarak adlandırılır. 
 Eğer veri setindeki eleman sayısı tek ise ortadaki değer doğrudan medyan olur. 
 Ancak eleman sayısı çift ise, ortadaki iki sayının aritmetik ortalaması medyan olarak alınır. 
