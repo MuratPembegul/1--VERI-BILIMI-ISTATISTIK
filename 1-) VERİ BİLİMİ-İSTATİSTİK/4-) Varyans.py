@@ -1,3 +1,8 @@
+""" VARYANS NEDİR?
+Varyans, bir veri setindeki değerlerin ortalamadan ne kadar sapma gösterdiğini ölçer. 
+Varyans, veri setinin yayılımını anlamak için kullanılır. Matematiksel olarak, her bir değerin ortalamadan farkının karesi alınarak bu farkların ortalaması hesaplanır. 
+Varyans ne kadar büyükse, veriler ortalamadan o kadar uzaklaşmıştır.
+"""
 from statistics import variance
 
 # Bir veri seti tanımlayalım
