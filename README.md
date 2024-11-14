@@ -1,5 +1,18 @@
 ![istatistik](https://github.com/user-attachments/assets/bde02147-e46a-4534-8b99-e83e87a7af0c)
 # VERİ-BİLİMİ-İSTATİSTİK
+
+# İSTATİSLİK NEDİR?
+İstatistik, veri toplama, analiz etme, yorumlama ve sunma süreçlerini kapsayan bir bilim dalıdır. Amacı, belirli bir konuyla ilgili güvenilir bilgilere ulaşmak ve bu bilgileri anlamlı bir şekilde yorumlamaktır. İstatistik, matematiksel yöntemlerle veri üzerinde çeşitli analizler yaparak sonuç çıkarılmasını sağlar. Bu süreç, çeşitli alanlarda (sağlık, ekonomi, psikoloji, mühendislik, sosyal bilimler vb.) karar vermede kritik rol oynar.
+
+İstatistik iki ana dala ayrılır:
+
+# Tanımlayıcı İstatistik: 
+Veri setini özetlemek ve tanımlamak için kullanılır. Ortalama, medyan, mod, varyans ve standart sapma gibi ölçütlerle verinin genel yapısını anlamaya yardımcı olur. Örneğin, bir sınıfın not ortalamasını hesaplamak tanımlayıcı istatistiklerin bir parçasıdır.
+
+# Çıkarımsal İstatistik: 
+Küçük bir örneklemden yola çıkarak daha büyük bir popülasyon hakkında tahminlerde bulunmayı sağlar. Örneğin, bir anket sonucu üzerinden toplumun genel görüşünü tahmin etmek için çıkarımsal istatistik kullanılır. Hipotez testleri, regresyon analizi gibi yöntemleri içerir.
+
+İstatistik, veri bilimi ve yapay zeka gibi alanların temelini oluşturur, çünkü bu alanlarda veri analizi ve yorumlaması çok önemlidir. Bir istatistikçi veya veri bilimci olmak için temel istatistik kavramlarını (ortalama, varyans, standart sapma vb.), veri görselleştirme yöntemlerini ve bazı istatistiksel yazılım veya programlama dillerini (Python, R gibi) öğrenmek gerekir.
 # ORTALAMA NEDİR?
 Ortalama, bir veri setindeki tüm değerlerin toplamının, o veri setindeki eleman sayısına bölünmesiyle elde edilen merkezi bir ölçüdür. İstatistikte ortalama, genellikle veri setinin genel eğilimini veya merkezini göstermek için kullanılır. Aritmetik ortalama, yaygın olarak kullanılan en basit ortalama türüdür ve çoğu durumda "ortalama" denildiğinde aritmetik ortalama kastedilir.
 # MEDYAN NEDİR?
