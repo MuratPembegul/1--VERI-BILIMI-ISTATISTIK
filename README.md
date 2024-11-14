@@ -23,5 +23,37 @@ Mod, bir veri setindeki en sık tekrarlanan değerdir. İstatistikte, veri setin
 Varyans, bir veri setindeki değerlerin ortalamadan ne kadar sapma gösterdiğini ölçer. Varyans, veri setinin yayılımını anlamak için kullanılır. Matematiksel olarak, her bir değerin ortalamadan farkının karesi alınarak bu farkların ortalaması hesaplanır. Varyans ne kadar büyükse, veriler ortalamadan o kadar uzaklaşmıştır.
 # STANDART SAPMA NEDİR?
 Standart sapma, bir veri setindeki değerlerin ortalamadan ne kadar sapma gösterdiğini, yani yayılımını ölçen bir istatistiksel ölçüdür. Standart sapma, varyansın kareköküdür ve daha çok kullanılan bir yayılma ölçüsüdür çünkü verilerle aynı birime sahiptir. Standart sapma küçükse, veriler ortalamaya yakın; büyükse, veriler ortalamadan uzak dağılmış demektir.
+# İşte başlıca istatistik alt dalları:
+
+# Tanımlayıcı İstatistik (Descriptive Statistics):
+
+Bu dal, veri setini özetlemek ve görselleştirmek için kullanılır. Ortalama, medyan, mod, standart sapma, varyans gibi özetleyici ölçülerle verinin genel yapısı anlaşılır hale getirilir. Genelde veri analizi sürecinin ilk adımı olarak tanımlayıcı istatistikler kullanılır.
+# Çıkarımsal İstatistik (Inferential Statistics):
+
+Belirli bir örnekleme dayanarak, genel bir popülasyon hakkında çıkarım yapmayı sağlar. Hipotez testleri, güven aralıkları ve regresyon analizleri bu dalın temel konularıdır. Örneklemler üzerinden genelleme yaparak belirsizliği en aza indirmeye çalışır.
+# Parametrik İstatistik (Parametric Statistics):
+
+Parametrik istatistikte, verilerin belirli bir dağılıma (genellikle normal dağılıma) uyduğu varsayılır. Bu varsayımlara dayanarak analiz yapılır. Örneğin, t-testleri ve ANOVA parametrik testlerdendir.
+Parametrik Olmayan İstatistik (Non-Parametric Statistics):
+
+Parametrik varsayımlara uymayan veri setleri için kullanılır. Verilerin dağılımı hakkında belirli bir varsayımda bulunmadan analiz yapılabilir. Mann-Whitney U testi, Kruskal-Wallis testi gibi testler parametrik olmayan testlerdir.
+# Bayesçi İstatistik (Bayesian Statistics):
+
+Bayes teoremi kullanılarak olasılıkların güncellenmesi esasına dayanır. Ön bilgi ve yeni verilerle sürekli güncellenen olasılıkları hesaplar. Bu yaklaşım, özellikle belirsizlik ve tahminleme durumlarında kullanışlıdır.
+# Uygulamalı İstatistik (Applied Statistics):
+
+İstatistiğin gerçek dünyadaki problemlere uygulanmasıdır. Örneğin, mühendislik, biyoloji, ekonomi gibi farklı alanlardaki veri analiz ihtiyaçlarını karşılar. İstatistiksel modelleri uygulamalı olarak kullanarak pratik çözümler geliştirir.
+# Teorik İstatistik (Theoretical Statistics):
+
+İstatistiksel yöntemlerin ve dağılımların matematiksel temellerini araştırır. İstatistiksel teoriyi geliştirir ve istatistiksel modellerin doğruluğunu analiz eder.
+# Biyoistatistik (Biostatistics):
+
+Biyoloji, tıp ve sağlık bilimlerinde kullanılan istatistik dalıdır. Klinik araştırmalar, genetik analizler ve epidemiyolojik çalışmalar biyoistatistiğin kapsamına girer.
+# İşletme İstatistiği (Business Statistics):
+
+İş dünyasında karar verme süreçlerinde kullanılan istatistiksel teknikleri kapsar. Pazar analizleri, finansal öngörüler ve risk analizi gibi konularda kullanılır.
+# Deney Tasarımı (Design of Experiments - DoE):
+
+Bilimsel araştırmalarda ve mühendislikte deneylerin nasıl yapılması gerektiğini belirler. Kontrollü ve güvenilir deneyler yaparak sonuçları analiz etmeyi sağlar.
 
 
