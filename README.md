@@ -34,7 +34,7 @@ Belirli bir örnekleme dayanarak, genel bir popülasyon hakkında çıkarım yap
 # Parametrik İstatistik (Parametric Statistics):
 
 Parametrik istatistikte, verilerin belirli bir dağılıma (genellikle normal dağılıma) uyduğu varsayılır. Bu varsayımlara dayanarak analiz yapılır. Örneğin, t-testleri ve ANOVA parametrik testlerdendir.
-Parametrik Olmayan İstatistik (Non-Parametric Statistics):
+# Parametrik Olmayan İstatistik (Non-Parametric Statistics):
 
 Parametrik varsayımlara uymayan veri setleri için kullanılır. Verilerin dağılımı hakkında belirli bir varsayımda bulunmadan analiz yapılabilir. Mann-Whitney U testi, Kruskal-Wallis testi gibi testler parametrik olmayan testlerdir.
 # Bayesçi İstatistik (Bayesian Statistics):
