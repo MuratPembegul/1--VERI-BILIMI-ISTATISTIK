@@ -56,4 +56,7 @@ Biyoloji, tıp ve sağlık bilimlerinde kullanılan istatistik dalıdır. Klinik
 
 Bilimsel araştırmalarda ve mühendislikte deneylerin nasıl yapılması gerektiğini belirler. Kontrollü ve güvenilir deneyler yaparak sonuçları analiz etmeyi sağlar.
 
+# Güncelleme: PR testi için eklendi.
+
+
 
