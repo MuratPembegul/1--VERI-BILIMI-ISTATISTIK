@@ -59,6 +59,7 @@ Bilimsel araştırmalarda ve mühendislikte deneylerin nasıl yapılması gerekt
 # Güncelleme: PR testi için eklendi.
 # Güncelleme: Yeni kodlar eklendi.
 # Güncelleme: Parametrik İstatistik Kodları Eklendi.
+# Güncelleme: Parametrik Olmayan Kodlar Eklendi.
 
 
 
