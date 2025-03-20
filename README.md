@@ -62,5 +62,7 @@ Bilimsel araştırmalarda ve mühendislikte deneylerin nasıl yapılması gerekt
 # Güncelleme: Parametrik Olmayan Kodlar Eklendi.
 # Güncelleme: Parametrik Olmayan Extra Testler.
 # Güncelleme: Bayesçi İstatistik Kodları Eklendi.
+# Uygulamalı İstatistik Kodları Eklendi.
+
 
 
