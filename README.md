@@ -65,6 +65,7 @@ Bilimsel araştırmalarda ve mühendislikte deneylerin nasıl yapılması gerekt
 # Uygulamalı İstatistik Kodları Eklendi.
 # Güncelleme: Teorik İstatistik Testleri Eklendi.
 # Güncelleme: Biyoistatistik Kodları Eklendi.
+# Güncelleme: İşletme İstatistiği Kodları Eklendi.
 
 
 
